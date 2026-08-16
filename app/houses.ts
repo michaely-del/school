@@ -13,5 +13,5 @@ export const initialHouses: House[] = [
   { id: 5, name: "Kuma", points: 0, color: "#9b5de5" },
   { id: 6, name: "Gom", points: 0, color: "#f15bb5" },
   { id: 7, name: "Dubb", points: 0, color: "#ff9f1c" },
-  { id: 8, name: "House", points: 0, color: "#e76f51" }
+  { id: 8, name: "Urso", points: 0, color: "#e76f51" }
 ];
